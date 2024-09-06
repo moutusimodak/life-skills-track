@@ -1,6 +1,6 @@
 # Apache Kafka Overview
 
-**Apache Kafka** 
+## Apache Kafka 
 
 A distributed data streaming platform that enables applications to process, publish, and consume data streams in real time. Kafka is a publish-and-subscribe messaging system that can handle data from multiple sources and deliver it to multiple consumers.
 
