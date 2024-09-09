@@ -1,5 +1,5 @@
 # Prevention of Sexual Harassment
-
+![Sexual Harassment](https://kashmirobserver.net/wp-content/uploads/2023/07/Stop-Sexual-Harassment.jpg)
 ## What kinds of behavior cause sexual harassment?
 
 Sexual harassment can include a variety of behaviors, such as:
