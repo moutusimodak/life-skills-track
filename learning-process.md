@@ -5,7 +5,7 @@ The Feynman Technique is a method for learning by explaining concepts in simple 
 
 ### 2. In this video, what was the most interesting story or idea for you?
 
-**Barbara Oakley's Journey:** The most interesting idea from the video is how using two different ways of thinking can help me learn better.
+- **Barbara Oakley's Journey:** The most interesting idea from the video is how using two different ways of thinking can help me learn better.
 
 - **Focused Thinking:** This involves paying close attention to specific tasks. It helps you understand and remember detailed information.
 
