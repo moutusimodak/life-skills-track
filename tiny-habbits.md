@@ -48,16 +48,16 @@ To reduce unwanted habits, we can:
 ## 8.  Steps to Enhance a Desired Habit
 To start a habit like exercising regularly, consider these steps:
 
-1. **Start Small**: Begin with just five minutes of exercise.
-2. **Link to an Existing Habit**: Exercise right after brushing your teeth in the morning.
-3. **Prepare Your Space**: Lay out your workout clothes the night before.
-4. **Celebrate**: Treat yourself to a small reward after each workout.
+-  **Start Small**: Begin with just five minutes of exercise.
+-  **Link to an Existing Habit**: Exercise right after brushing your teeth in the morning.
+-  **Prepare Your Space**: Lay out your workout clothes the night before.
+-  **Celebrate**: Treat yourself to a small reward after each workout.
 
 ## 9. Steps to Reduce an Undesired Habit
 To cut back on a habit like binge-watching TV shows, you could:
 
-1. **Create Barriers**: Unsubscribe from streaming services.
-2. **Change Your Space**: Keep the TV out of your main living area.
-3. **Make It Harder**: Set up extra steps to watch TV, like needing to find a specific device.
+-  **Create Barriers**: Unsubscribe from streaming services.
+-  **Change Your Space**: Keep the TV out of your main living area.
+- **Make It Harder**: Set up extra steps to watch TV, like needing to find a specific device.
 
 By following these strategies, forming new habits becomes easier, leading to ongoing personal growth and improvement.
